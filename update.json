@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "version_code": 4,
+  "version": "1.0.4",
+  "version_code": 5,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/apprelease.apk",
   "changelog": [
