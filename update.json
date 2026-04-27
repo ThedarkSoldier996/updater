@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "version_code": 2,
+  "force_update": false,
+  "apk_url": "https://github.com/usuario/repositorio/releases/download/v1.0.1/app.apk",
+  "changelog": [
+    "Corrección de errores",
+    "Mejoras de rendimiento"
+  ],
+  "release_date": "2026-04-27"
+}
