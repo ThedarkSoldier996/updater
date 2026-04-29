@@ -1,0 +1,14 @@
+{
+  "version": "1.1.9",
+  "version_code": 19,
+  "force_update": true,
+  "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
+  "changelog": [
+    "-Se realizaron ajustes de Rendimiento",
+    "-Salto Automático de Zapping en Canales No Disponibles o no Asignados",
+    "-Se reparo un error interno en la lógica de la aplicación",
+    "-Reparado númeración no consistente",
+    "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
+  ],
+  "release_date": "2026-04-28"
+}
