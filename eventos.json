@@ -1,7 +1,7 @@
 {
-  "texto": "ESTO ES UN MENSAJE DE PRUEBA: EVENTOS -- Sportivo Trinidense vs 2 de Mayo a las 17:45 por LANC2 --- Libertad vs Sportivo San Lorenzo a las 20:00 por LANC1",
+  "texto": "ESTO ES UN MENSAJE DE PRUEBA: Solo debe aparecer hoy 28/04/26 hasta las 23:00",
   "activo": true,
-  "fecha": "2026-04-27",
+  "fecha": "2026-04-28",
   "desde": "17:45",
-  "hasta": "22:00"
+  "hasta": "23:00"
 }
