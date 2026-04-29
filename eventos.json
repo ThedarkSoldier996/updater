@@ -1,7 +1,7 @@
 {
-  "texto": "ESTO ES UN MENSAJE DE PRUEBA: Solo debe aparecer hoy 28/04/26 hasta las 23:00",
+  "texto": "ESTO ES UN MENSAJE DE PRUEBA: Mantenimiento en Curso. Puede existir inconvenientes con la carga de los canales",
   "activo": true,
-  "fecha": "2026-04-28",
-  "desde": "17:45",
-  "hasta": "23:00"
+  "fecha": "2026-04-29",
+  "desde": "08:00",
+  "hasta": "09:00"
 }
