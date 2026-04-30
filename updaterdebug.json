@@ -1,12 +1,12 @@
 {
-  "version": "1.2.8",
-  "version_code": 28,
+  "version": "1.2.9",
+  "version_code": 29,
   "force_update": true,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
-    "-Se realizaron ajustes de Rendimiento",
-    "-Se corrigió un error de enlace con las actualizaciones Beta",
+    "-Se realizaron ajustes en el código interno de la app",
+    "-Se agregaron drivers para tvAndroid Chinas - NO VERIFICADO",
     "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
   ],
-  "release_date": "2026-04-28"
+  "release_date": "2026-04-30"
 }
