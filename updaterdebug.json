@@ -5,7 +5,7 @@
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
     "-Se realizaron ajustes en el código interno de la app",
-    "-Se agregaron drivers para tvAndroid Chinas - NO VERIFICADO",
+    "-Se revirtio los ajustes a la versión 1.2.1 donde aun funcionaba correctamente la app",
     "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
   ],
   "release_date": "2026-04-30"
