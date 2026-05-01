@@ -1,10 +1,10 @@
 {
-  "version": "1.4.0",
-  "version_code": 40,
+  "version": "1.4.1",
+  "version_code": 41,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
-    "-PRELANZAMIENTO NOVAPLAY 1.4.0",
+    "-PRELANZAMIENTO NOVAPLAY 1.4.1",
     "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
   "release_date": "2026-05-1"
