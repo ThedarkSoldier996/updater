@@ -1,6 +1,6 @@
 {
-  "version": "1.3.6",
-  "version_code": 36,
+  "version": "1.3.7",
+  "version_code": 37,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
