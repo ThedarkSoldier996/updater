@@ -1,13 +1,20 @@
 {
-  "version": "1.3.7",
-  "version_code": 37,
+  "version": "1.3.8",
+  "version_code": 38,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
-    "-Se realizaron ajustes en el código interno de la app",
-    "-Se agrego algunas técnicas de detección de Version verdadera del Sistema Android",
-    "-Se agrego cambiar canal por numeración para controles que poseen teclas numericas",
+    "-Se optimizó el código interno y se corrigieron referencias globales (NovaplayService)",
+    "-Se implementó un nuevo sistema de búsqueda de actualizaciones automáticas (Stable y Beta) con horario aleatorio",
+    "-Se bloqueó el cambio a canales con 'Señal no Asignada' o 'No disponible' mediante teclado numérico",
+    "-Se rediseñó la visualización del número de canal: ahora es más grande y sin recuadro de fondo",
+    "-Se estandarizó el mensaje de alerta a 'CANAL NO ENCONTRADO' para búsquedas fallidas",
+    "-Se mejoró la compatibilidad con Android TV y la navegación mediante controles remotos",
+    "-Se integró soporte para DNS over HTTPS (Cloudflare/Google) para mayor estabilidad en los flujos",
+    "-Se reparo un error gráfico que mostraba un icono de la Versión Móvil de la APP",
+    "-Se realizó una limpieza general del código interno, eliminando caracteristicas en deuso",
+    "-Se realizón una reparación en la lógica de los canales que causaba que si la señal no cargaba saltase a otro canal no sintonizado (Corrección en verificación)",
     "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
-  ],
+],
   "release_date": "2026-05-1"
 }
