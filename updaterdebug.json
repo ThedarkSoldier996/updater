@@ -1,12 +1,12 @@
 {
-  "version": "1.2.4",
-  "version_code": 24,
-  "force_update": true,
+  "version": "1.2.6",
+  "version_code": 26,
+  "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
     "-Se realizaron ajustes en el código interno de la app",
-    "-Se revirtio una protección que causo una falla total con la conexion al servidor",
+    "-Se rediseño la versión para TV´S",
     "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
   ],
-  "release_date": "2026-04-30"
+  "release_date": "2026-05-1"
 }
