@@ -1,9 +1,10 @@
 {
-  "version": "1.5.2",
-  "version_code": 52,
+  "version": "1.5.3",
+  "version_code": 53,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/apprelease.apk",
   "changelog": [
+    " -AVISO ESTA ES UNA ACTUALIZACIÓN CORRECTIVA DE LA VERSIÓN 1.5.2 - SE RECOMIENDA SU INSTALACIÓN - SE CORRIGIÓ EL AVISO INSISTENTE DE DISPOSITIVO DE BAJOS RECURSOS",
     " -Se realizaron muchos cambios graficos, , de ayuda al mayor, Modo Auto TV, Elección entre versión Estable y Pruebas de la app",
     " -Algunos Canales Funcionan con Reproductor Diferente. Esperar para que NovaPlay haga los ajustes necesarios",
     " -Se realizó optimizaciones para Dispositivos Modestos o Chinos, aún asi se recomienda actualizar a Dispositivos Originales para mejor rendimiento de la app",
