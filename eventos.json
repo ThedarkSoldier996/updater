@@ -1,7 +1,8 @@
 {
-  "texto": " ACTUALIZACIÓN 1.5.2 DISPONIBLE  ----    Si no te aparece la actualización puedes descargarlo por Downloader - CODIGO: 6460947  ----    Esta actualización esta como opcional, pero se recomienda su instalación, varias caracteristicas nuevas no son compatibles en versiones anteriores a esta   ----     LOS CANALES PARAGUAYOS (TRECE - UNICANAL Y ABC COLOR) FUNCIONAN CON UN NUEVO SISTEMA, ESTARÁN DISPONIBLES CON LA VERSION NUEVA DE LA APP. LAMENTAMOS LOS INCONVENIENTES  ----    HABRA MANTENIMIENTO EN EL SERVIDOR Y CAMBIOS EN EL FUNCIONAMIENTO DE LA APP. ESTO PARA LA NUEVA VERSION DE LA APP. LOS CANALES Y TRANMISIÓN DE TIGO SPORTS NO SE VEN AFECTADOS DURANTE ESTE MANTENIMIENTO    ----    Se están realizando la comprobación de la nueva versión de la App. Pronto estará lista la Actualización    ----    DONACIONES AL PROYECTO NOVAPLAY AL ALIAS 0975648509",
+  "texto": " ACTUALIZACIÓN CORRECTIVA 1.5.3 DISPONIBLE  ----    Si no te aparece la actualización puedes descargarlo por Downloader - CODIGO: 6460947  ----    Esta actualización es opcional, pero se recomienda su instalación, varias caracteristicas nuevas no son compatibles en versiones anteriores a esta   ----     LOS CANALES PARAGUAYOS (TRECE - UNICANAL Y ABC COLOR) FUNCIONAN SOLO CON LA VERSIÓN NUEVA DE LA APP. LAMENTAMOS LOS INCONVENIENTES    ----    DONACIONES AL PROYECTO NOVAPLAY AL ALIAS 0975648509",
   "activo": true,
   "fecha": "2026-05-02",
+  "fecha-hasta": "2026-05-29",
   "desde": "00:01",
   "hasta": "23:59"
 }
