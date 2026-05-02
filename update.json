@@ -1,14 +1,15 @@
 {
-  "version": "1.2.0",
-  "version_code": 20,
-  "force_update": true,
+  "version": "1.5.2",
+  "version_code": 52,
+  "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/apprelease.apk",
   "changelog": [
-    "-Se realizaron ajustes de Rendimiento",
-    "-Salto Automático de Zapping en Canales No Disponibles o no Asignados",
-    "-Se reparo un error interno en la lógica de la aplicación",
-    "-Reparado númeración no consistente",
-    "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
+    " -Se realizaron muchos cambios graficos, , de ayuda al mayor, Modo Auto TV, Elección entre versión Estable y Pruebas de la app",
+    " -Algunos Canales Funcionan con Reproductor Diferente. Esperar para que NovaPlay haga los ajustes necesarios",
+    " -Se realizó optimizaciones para Dispositivos Modestos o Chinos, aún asi se recomienda actualizar a Dispositivos Originales para mejor rendimiento de la app",
+    " -Si le cuesta entender como actualizar, puede contactarnos al 0975648509 y le guiamos paso a paso",
+    " -Esta actualización esta como opcional, pero se recomienda su instalación, varias caracteristicas nuevas no son compatibles en versiones anteriores a esta y los avisos de actualización seguiran apareciendo hasta actualizar la versión",
+    " -Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
   ],
-  "release_date": "2026-04-28"
+  "release_date": "2026-05-02"
 }
