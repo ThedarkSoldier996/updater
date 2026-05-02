@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "version_code": 54,
+  "version": "1.5.5",
+  "version_code": 55,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
@@ -8,5 +8,5 @@
     "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
     "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
-  "release_date": "2026-05-1"
+  "release_date": "2026-05-2"
 }
