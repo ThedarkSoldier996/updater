@@ -1,12 +1,12 @@
 {
-  "version": "1.5.2",
-  "version_code": 52,
+  "version": "1.5.4",
+  "version_code": 54,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
-    "-PRELANZAMIENTO NOVAPLAY 1.5.2",
-    "-Algunos Canales Funcionan con Reproductor Diferente. Esperar para que NovaPlay haga los ajustes necesarios",
-    "-Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo Xiaomi MiTv-AESP0 - NO VERIFICADO",
+    "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
+    "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
   "release_date": "2026-05-1"
 }
