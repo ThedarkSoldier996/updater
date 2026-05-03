@@ -1,13 +1,12 @@
 {
-  "version": "1.5.7",
-  "version_code": 57,
+  "version": "1.5.9",
+  "version_code": 59,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
-    "-  ------ Se implementó mejoras para solucionar inconvenientes en el Dispositivo Xiaomi MiTv-AESP0 - NO VERIFICADO", 
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo Xiaomi MiTv-AESP0 - NO VERIFICADO", 
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo LUO V80 - NO VERIFICADO", 
     "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
-    "- Se solucionó el inconveniente con el sonido en algunos canales que se ejecutan sobre Webview",
-    "- Se implementó un Control de Volumen exclusivo de la app",
     "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
   "release_date": "2026-05-2"
