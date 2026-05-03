@@ -1,11 +1,12 @@
 {
-  "version": "1.6.0",
-  "version_code": 60,
+  "version": "1.6.1",
+  "version_code": 61,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
     "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo Xiaomi MiTv-AESP0 - NO VERIFICADO", 
     "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo LUO V80 - VERIFICADO", 
+    "- Se implementó una corrección gráfica que en ciertos casos hacia que la marquesina solapsará algunos elementos", 
     "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
     "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
