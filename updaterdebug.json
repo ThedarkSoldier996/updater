@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "version_code": 54,
+  "version": "1.5.5",
+  "version_code": 55,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
