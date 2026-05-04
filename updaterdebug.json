@@ -5,8 +5,13 @@
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
     "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo Xiaomi MiTv-AESP0 - NO VERIFICADO", 
-    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo LUO V80 - VERIFICADO", 
-    "- Se implementó una corrección gráfica que en ciertos casos hacia que la marquesina solapsará algunos elementos", 
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo LUO V80 - VERIFICADO",
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo AMAZON AFTSS- CODENAME: SHELDON - NO VERIFICADO",
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo WIN43FS- CODENAME: bigfish - NO VERIFICADO",
+    "- Se implementó mejoras para solucionar inconvenientes en el Dispositivo TvBox Chino SUN50IW9P1 / exdroid - NO VERIFICADO",
+    "- Se reubicó la marquesina",
+    "- Se integró la biblioteca webview al sistema. Esto causo que el tamaño de la app sea más grande, pero evitas fallas con sistemas con webview desfasado.",
+    "- Se implemento una posible solución para la barra de ajustes de la app que fallaba en alguna situaciones.",
     "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
     "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
