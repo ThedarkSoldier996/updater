@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "version_code": 87,
+  "version": "1.8.8",
+  "version_code": 88,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
