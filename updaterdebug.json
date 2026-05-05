@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "version_code": 89,
+  "version": "1.9.0",
+  "version_code": 90,
   "force_update": false,
   "apk_url": "https://github.com/ThedarkSoldier996/updater/raw/refs/heads/main/app-debug.apk",
   "changelog": [
@@ -8,6 +8,8 @@
     "- Se reubicó la marquesina",
     "- Se implemento una posible solución para la barra de ajustes de la app que fallaba en alguna situaciones.",
     "- Se solucionó el inconveniente con el zapping en los canales que utilizan la Tecnologia Webview",
+    "- Se implementó restricciones graficas y de algunas opciones para dispositivos modestos, (Estos pueden ser desactivado con una opción en la barra de opciones)",
+    "- Se implementó un buscador",
     "- Se agregaron nuevos errores para solucionarlos más tarde... 😆😆"
 ],
   "release_date": "2026-05-3"
