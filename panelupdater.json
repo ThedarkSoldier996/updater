@@ -1,0 +1,14 @@
+{
+    "force_update": false,
+    "changelog": [
+        "- Mejora de Interfaz: Añadido scroll a la ventana de actualización para leer registros de cambios largos.",
+        "- Blindaje Mirror Debug Total (v4): Paridad absoluta garantizada entre Debug y Release.",
+        "- Cero Ofuscación Propia: Todas las clases y métodos de NovaPanel conservan sus nombres reales.",
+        "- Estabilidad de Red: Motores Ktor y OkHttp blindados para conexión Supabase infalible.",
+        "- Trazabilidad Extrema: Stacktraces legibles con números de línea y nombres de archivo.",
+        "- Versión 1.2.9: Estabilidad y UX mejoradas."
+    ],
+    "version_code": 129,
+    "version": "1.2.9",
+    "apk_url": "https://mrghnngupolsgatcmevw.supabase.co/storage/v1/object/public/novapanel/novapanel.apk"
+}

@@ -1,0 +1,53 @@
+name: Upload novaplay.apk to Supabase
+
+on:
+  push:
+    paths:
+      - "novaplay.apk"
+
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar Requests
+        run: pip install requests
+
+      - name: Subir novaplay.apk a Supabase Storage
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          python << 'EOF'
+          import os
+          import requests
+
+          url = f"{os.environ['SUPABASE_URL']}/storage/v1/object/novaplayestable/novaplay.apk"
+
+          headers = {
+              "Authorization": f"Bearer {os.environ['SUPABASE_SERVICE_ROLE_KEY']}",
+              "apikey": os.environ['SUPABASE_SERVICE_ROLE_KEY'],
+              "Content-Type": "application/vnd.android.package-archive",
+              "x-upsert": "true"
+          }
+
+          with open("novaplay.apk", "rb") as f:
+              r = requests.post(url, headers=headers, data=f)
+
+          print("Código:", r.status_code)
+          print(r.text)
+
+          r.raise_for_status()
+
+          print("✔ novaplay.apk subido correctamente a Supabase.")
+          EOF

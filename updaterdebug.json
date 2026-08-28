@@ -1,0 +1,25 @@
+{
+  "version": "4.2.7",
+  "version_code": 427,
+  "min-version": "4.2.6",
+  "min-version_code": 426,
+  "texto": "DEBUG: Test de Integración Tigo Sports y Optimizaciones",
+  "force_update": false,
+  "apk_url": "https://github.com/novaplaytv/updater/raw/refs/heads/main/novaplaybeta.apk",
+  "changelog": [
+    "- Integración Tigo Sports: Actualización dinámica de tokens de sesión para mayor estabilidad.",
+    "- Autorecuperación Transparente: Renovación automática de sesiones expiradas en canales de Tigo Sports.",
+    "- Optimizaciones de Red: Mejora en la concurrencia de peticiones para dispositivos modestos.",
+    "- Saneamiento de Workers: Eliminación de procesos en segundo plano obsoletos."
+  ],
+  "novaservices": {
+    "version": "1.2.5",
+    "version_code": 125,
+    "apk_url": "https://github.com/novaplaytv/novaplay/raw/refs/heads/main/novaservices.apk"
+  },
+  "novacodecs": {
+    "version": "1.5",
+    "version_code": 6,
+    "apk_url": "https://github.com/novaplaytv/novaplay/releases/download/v1.5-codecs/novacodecs.apk"
+  }
+}

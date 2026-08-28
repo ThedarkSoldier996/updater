@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "seeds": [
+    "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN3.mpd",
+    "https://v4.infiplay.es/canales/tigo/hola/edge03&APP_CHN2.mpd"
+  ]
+}

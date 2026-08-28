@@ -1,0 +1,21 @@
+{
+  "version": "4.5.0",
+  "version_code": 450,
+  "min-version": "4.5.0",
+  "min-version_code": 450,
+  "texto": "NovaPlay Estable - Navegación y Foco Blindados",
+  "force_update": false,
+  "apk_url": "https://mrghnngupolsgatcmevw.supabase.co/storage/v1/object/public/novaplayestable/novaplay.apk",
+  "changelog": [
+    "- Navegación Blindada (TV): Solucionada la pérdida de cursor en scroll rápido mediante TVGridLayoutManager.",
+    "- Zapping Optimizado: Aumento de caché de vistas y pre-carga inteligente de canales.",
+    "- Blindaje R8 v75.4: Paridad absoluta entre Debug y Release para máxima estabilidad.",
+    "- Conectividad Reforzada: Motores Ktor y OkHttp protegidos contra fallos de red.",
+    "- Rendimiento: Mejoras significativas en dispositivos con recursos limitados."
+  ],
+  "novacodecs": {
+    "version": "1.5",
+    "version_code": 6,
+    "apk_url": "https://github.com/novaplaytv/novaplay/releases/download/v1.5-codecs/novacodecs.apk"
+  }
+}

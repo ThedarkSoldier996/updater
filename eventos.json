@@ -1,0 +1,21 @@
+{
+  "texto": "ESTAMOS CON INCONVENIENTES EN LA SEÑALES PARAGUAYAS. YA ESTAMOS VERIFICANDO EL INCONVENIENTE",
+  "activo": true,
+  "eventoVersion": 17,
+  "fecha": "2026-05-02",
+  "fecha-hasta": "2050-12-31",
+  "desde": "00:01",
+  "hasta": "23:59",
+
+  "v2": {
+    "popupVersion": 7,
+    "activado": true,
+
+    "titulo": "📢 CENTRO DE AVISOS",
+
+    "parrafos": [
+      
+      "24/08/2026 ---- HEMOS VERIFICADO QUE SON VARIOS CANALES CON INCONVENIENTES, ESTAREMOS VERIFICANDO Y SOLUCIONANDO. ESTO PUEDE TARDAR UN TIEMPO"
+    ]
+  }
+}
